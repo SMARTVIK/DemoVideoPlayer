@@ -23,6 +23,10 @@
         <activity
             android:name=".Demo"
             android:label="@string/title_activity_demo"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CameraActivity"
+            android:label="@string/title_activity_camera"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
